@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Noto Sans', sans-serif;
+    color: rgb(45, 51, 56);
+}
+
+h1, h2 {
+    font-family: 'Prata', serif;
+    color: black;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+.header::after {
+    content: '';
+    background: lightslategray;
+    display: block;
+    width: 400px;
+    height: 2px;
+}
+ 
+.headers {
+    padding: 15px 0px 20px 40px;
+}
+
+.nav {
+    border-top: 2px solid rgb(145, 145, 145);
+    border-bottom: 2px solid rgb(145, 145, 145);
+}
+
+.body-container {
+    background: rgb(236, 235, 235);
+    display: flex;
+    justify-content: space-around;
+    margin: 0 10px 25px 10px;
+    box-shadow: 5px 5px teal;
+}
+
+.lower-body-container {
+    background: rgb(236, 235, 235);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    /* border-radius: 0 0 15px 15px; */
+    margin: 0 10px 25px 10px;
+    box-shadow: 5px 5px teal;
+}
+
+.small-card {
+    border: 3px solid rgb(113, 204, 235);
+    box-shadow: 5px 5px lightblue;
+    width: 46%;
+    padding: 20px;
+    margin: 20px;
+    margin: 20px 0 20px 0;
+    background: white;
+}
+
+.full-width-card {
+    border: 3px solid rgb(113, 204, 235);
+    box-shadow: 5px 5px lightblue;
+    padding: 20px;
+    margin: 1%;
+    margin: 20px 0 20px 0;
+    width: 96%;
+    background: white;
+}
