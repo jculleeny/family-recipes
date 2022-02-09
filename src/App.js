@@ -1,25 +1,29 @@
-import logo from './logo.svg';
-import './App.css';
+import './App.css'
+import { Routes, Route } from 'react-router-dom'
+
+// Components
+import Categories from './components/Categories'
+import CategoryRecipes from './components/CategoryRecipes'
+import NoMatch from './components/NoMatch'
+import Header from './components/headerComponents/Header'
+import Recipe from './components/recipeComponents/Recipe'
+
+// API Data
+import recipes from './recipes.json'
+import SubmitRecipe from './components/submitRecipeComponents/SubmitRecipe'
 
 function App() {
+  let categoriesArray = Object.keys(recipes)
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    <Routes>
+      <Route path="/" element={ <Categories categories={ categoriesArray }/> } />
+      <Route path="/:category" element={ <CategoryRecipes recipeData={ recipes } /> } />
+      <Route path="/:category/:recipe" element={ <Recipe recipeData={ recipes } /> } />
+      <Route path="/submit" element={ <SubmitRecipe /> } />
+      <Route path="*" element={ <NoMatch /> } />
+    </Routes>
+  )
 }
 
-export default App;
+export default App

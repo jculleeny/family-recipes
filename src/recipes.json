@@ -1,0 +1,302 @@
+{
+    "starters": [
+        {
+            "recipeName": "Shrimp Toast",
+            "url": "shrimp-toast",
+            "ingredients": [
+                {
+                    "quantity": "1/2 lb",
+                    "name": "Shrimp"
+                },
+                {
+                    "quantity": "2 stalks",
+                    "name": "Celery"
+                },
+                {
+                    "quantity": "1/4 cup",
+                    "name": "Cilantro"
+                },
+                {
+                    "quantity": "2",
+                    "name": "Green Onion"
+                },
+                {
+                    "quantity": "1 tbsp",
+                    "name": "Sesame Oil"
+                },
+                {
+                    "quantity": "1 tbsp",
+                    "name": "Soy Sauce"
+                },
+                {
+                    "quantity": "1 tbsp",
+                    "name": "Corn Starch or Potato Flour"
+                },
+                {
+                    "quantity": "1",
+                    "name": "Egg"
+                },
+                {
+                    "quantity": "1 loaf",
+                    "name": "Basic White Bread"
+                },
+                {
+                    "quantity": "3 cups",
+                    "name": "Canola or Vegetable Oil"
+                }
+            ],
+            "steps": [
+                "Chop the shrimp until they are a pulp.",
+                "Chop the celery, green onion, cilantro and add to a bowl with the shrimp.",
+                "Add the sesame oil, cornstarch, soy sauce, egg, and then mix.",
+                "Slice the crust off of the bread, and cut diagonal into triangles.",
+                "Spread the mixture evenly onto the bread, covering the whole thing.",
+                "Heat the vegetable oil to 375 in a dutch oven or similar safe vessel to fry. Then add the covered slices of bread.",
+                "Cook until golden, and all the pieces finished."
+            ],
+            "suggestions": [
+                "Add a minced water chestnut or two. Also pairs terrifically with the Gochujang Mayo."
+            ],
+            "background": "Shrimp Toast is a very popular appetizer in China, that has spread to Hong Kong and the United States. I got this recipe from Owen Han on Instagram, and he's definitely worth a follow.",
+            "imageURL": null,
+            "difficulty": 2,
+            "servings": 8,
+            "category": "Starters"
+        }
+    ],
+    "dressings-sauces-salsas": [
+        {
+            "recipeName": "Chipotle Salsa",
+            "url": "chipotle-salsa",
+            "ingredients": [
+                {
+                    "quantity": "3",
+                    "name": "Chipotle Chilies"
+                },
+                {
+                    "quantity": "1 16oz can",
+                    "name": "Whole Tomatoes"
+                },
+                {
+                    "quantity": "1/2",
+                    "name": "White or Yellow onion"
+                },
+                {
+                    "quantity": "2 cloves",
+                    "name": "Garlic"
+                },
+                {
+                    "quantity": "1/2",
+                    "name": "Lemon"
+                },
+                {
+                    "quantity": "1 tsp",
+                    "name": "Sherry Vinegar"
+                },
+                {
+                    "quantity": "1/4 cup",
+                    "name": "Cilantro"
+                },
+                {
+                    "quantity": "1/2 tsp",
+                    "name": "Cumin"
+                }
+            ],
+            "steps": [
+                "Put all the ingredients into a blender and blend.",
+                "Salt to taste."
+            ],
+            "suggestions": [
+                "Experiment as you like, but I've found the Sherry vinegar is what makes this work."
+            ],
+            "background": "I got the idea for this salsa from my mom, but made my own version.",
+            "imageURL": null,
+            "difficulty": 1,
+            "servings": 8,
+            "category": "Dressing, Sauces, Salsas"
+        },
+        {
+            "recipeName": "Gochujang Mayo",
+            "url": "gochujang-mayo",
+            "ingredients": [
+                {
+                    "quantity": "2 tbsp",
+                    "name": "Gochujang"
+                },
+                {
+                    "quantity": "1 cup",
+                    "name": "Kewpie Mayo"
+                },
+                {
+                    "quantity": "1/2 juice",
+                    "name": "Lemon"
+                },
+                {
+                    "quantity": "1/2 zest",
+                    "name": "Lemon"
+                }
+            ],
+            "steps": [
+                "Zest the lemon and squeeze the juice into a bowl.",
+                "Add the rest of the ingredients and stir together."
+            ],
+            "suggestions": [
+                "Add some grated garlic or ginger for some extra flavor."
+            ],
+            "background": "This comes from Owen Han on Instagram, and goes perfectly with the Shrimp Toast recipe.",
+            "imageURL": null,
+            "difficulty": 1,
+            "servings": 4,
+            "category": "Dressing, Sauces, Salsas"
+        }
+    ],
+    "sides": [
+        {
+            "recipeName": "Green Beans",
+            "url": "green-beans",
+            "ingredients": [
+                {
+                    "quantity": "1 lb",
+                    "name": "Green Beans"
+                },
+                {
+                    "quantity": "2 cloves",
+                    "name": "Garlic"
+                },
+                {
+                    "quantity": "1 tbsp",
+                    "name": "Olive Oil"
+                },
+                {
+                    "quantity": "1/2 cup",
+                    "name": "Water"
+                }
+            ],
+            "steps": [
+                "Put the water in a pan with a lid and get to a simmer. Once simmering add the green beans and salt to taste.",
+                "Stir the green beans every minute or two and cook for 7 minutes.",
+                "Drain any remaining water, then turn the heat up medium-high and add the olive oil and garlic in a well in between the green beans.",
+                "Stir the ingredients and cook until the garlic is fragrant and then serve."
+            ],
+            "suggestions": [
+                ""
+            ],
+            "background": "This recipe comes from Samin Nosrat and is amazingly simple and delicious.",
+            "imageURL": null,
+            "difficulty": 1,
+            "servings": 4,
+            "category": "Sides"
+        }
+    ],
+    "main-dishes": [
+        {
+            "recipeName": "Bacon Pasta",
+            "url": "bacon-pasta",
+            "ingredients": [
+                {
+                    "quantity": "3-4 Strips",
+                    "name": "Bacon"
+                },
+                {
+                    "quantity": "1/2 Box",
+                    "name": "Spaghetti or Linguini"
+                },
+                {
+                    "quantity": "1/4 cup",
+                    "name": "Olive Oil"
+                },
+                {
+                    "quantity": "1 tbsp",
+                    "name": "Black Pepper"
+                },
+                {
+                    "quantity": "1 cup",
+                    "name": "Reserved Pasta Water"
+                }
+            ],
+            "steps": [
+                "Cook the pasta to the Al Dente time on the box.",
+                "Add the olive oil to a pan and turn the heat to low-med.",
+                "Add the bacon and fresh ground pepper and let it cook until the bacon is almost done but not crispy.",
+                "Save the 1 cup of Pasta Water and drain the rest.",
+                "Add the pasta water to the pan with the pasta and stir vigorously to emulsify it all together.",
+                "Top with salt, parmesan, and more black pepper as needed."
+            ],
+            "suggestions": [
+                "Sometimes I like to add parboiled greens when I mix it all together, usually broccoli."
+            ],
+            "background": "This is really Pasta alla Gricia, but I can never find Guanciale (cured pork cheek), so I use bacon. It's been a family favorite for a long time.",
+            "imageURL": null,
+            "difficulty": 1,
+            "servings": 6,
+            "category": "Main Dish"
+        },
+        {
+            "recipeName": "Great Grandma's Special",
+            "url": "great-grandmas-special",
+            "ingredients": [
+                {
+                    "quantity": "1.5 lbs.",
+                    "name": "Ground Beef"
+                },
+                {
+                    "quantity": "1 box",
+                    "name": "Rigatoni or Fusilli Pasta"
+                },
+                {
+                    "quantity": "2 cloves",
+                    "name": "Garlic"
+                },
+                {
+                    "quantity": "16oz can",
+                    "name": "Tomato Sauce"
+                },
+                {
+                    "quantity": "1",
+                    "name": "Yellow Onion"
+                },
+                {
+                    "quantity": "1",
+                    "name": "Green Bell Pepper"
+                },
+                {
+                    "quantity": "3/4 cup",
+                    "name": "Cheddar Cheese"
+                },
+                {
+                    "quantity": "1 tsp",
+                    "name": "Chili Powder"
+                },
+                {
+                    "quantity": "1 tsp",
+                    "name": "Oregano"
+                },
+                {
+                    "quantity": "1 tsp",
+                    "name": "Cumin"
+                },
+                {
+                    "quantity": "to taste",
+                    "name": "Salt"
+                }
+            ],
+            "steps": [
+                "Start by cooking the pasta the recommended Al Dente time.",
+                "Chop the onion, bell pepper, and garlic. Cook in oil until onions are translucent and everything is nice and fragrant.",
+                "Add the ground beef and break the meat apart. Add the chili powder, oregano, cumin, and salt.",
+                "Continue breaking the ground beef up as it cooks and mix the spices, meat, and vegetables together until the meat is almost finished. Then add the tomato sauce.",
+                "Mix the finished pasta into the meat sauce in an oven safe dish or cast iron pan and top with the grated cheese",
+                "Place in an oven preheated to 350° and cook for 50 minutes."
+            ],
+            "suggestions": [
+                "Top with some fresh red salsa or Tapatio."
+            ],
+            "background": "This recipe was created by my (John Culleeny IV) great grandmother from Alaska. It has always been one of my favorite dishes throughout life, and the smell of the onion, bell pepper, and garlic always got me excited for dinner.",
+            "imageURL": null,
+            "difficulty": 1,
+            "servings": 12,
+            "category": "Main Dish"
+        }
+    ],
+    "desserts": []
+}
