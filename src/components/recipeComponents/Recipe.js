@@ -19,8 +19,8 @@ const Recipe = () => {
     const rec = { recipe }
     let currentRecipeIndex
 
-    console.log(recipes[cat.category])
-    console.log(rec.recipe)
+    // console.log(recipes[cat.category])
+    // console.log(rec.recipe)
 
     // Get the correct recipe index
     recipes[cat.category].forEach( (element, index) => {

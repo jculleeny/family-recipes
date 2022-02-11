@@ -1,20 +1,23 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
 
 // Components
 import Nav from './Nav'
+import Breadcrumbs from './Breadcrumbs'
+import TitleLogo from './TitleLogo'
 
 const Header = () => {
 
 
     return(
-        <div className='header'>
+        <header className='header'>
             <div className='headerContainer'>
-                <h1>Header Component</h1>
+                <TitleLogo />
                 <Nav />
             </div>
-
-        </div>
+            <div className='breadcrumbsWrapper'>
+                <Breadcrumbs />
+            </div>
+        </header>
     )
 }
 

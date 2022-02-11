@@ -74,7 +74,7 @@
                     "name": "Chipotle Chilies"
                 },
                 {
-                    "quantity": "1 16oz can",
+                    "quantity": "16oz can",
                     "name": "Whole Tomatoes"
                 },
                 {
@@ -295,6 +295,48 @@
             "imageURL": null,
             "difficulty": 1,
             "servings": 12,
+            "category": "Main Dish"
+        },
+        {
+            "recipeName": "Cast Iron Chicken Thighs",
+            "url": "",
+            "ingredients": [
+                {
+                    "quantity": "4-6",
+                    "name": "Boneless/Skinless Chicken Thighs"
+                },
+                {
+                    "quantity": "1 quartered",
+                    "name": "Yellow Onion"
+                },
+                {
+                    "quantity": "2 tbsp",
+                    "name": "Cooking Oil"
+                },
+                {
+                    "quantity": "3-6 Sprigs",
+                    "name": "Rosemary"
+                },
+                {
+                    "quantity": "1 quartered",
+                    "name": "Lemon"
+                }
+            ],
+            "steps": [
+                "Set your oven to 475 degrees.",
+                "Put a cast iron pan on medium high heat and let warm.",
+                "When the pan is nice, hot, and smokey, add the oil and then the chicken thighs face down. Let cook for for 2 minutes.",
+                "Turn the heat down to medium-low and let the chicken cook for another 10 minutes without touching it.",
+                "After the 10 minutes, and the oven is preheated, add the rest of the ingredients mixed in between the thighs.",
+                "Place in the oven for 15 minutes then check the inner temperature is 165 degrees and serve."
+            ],
+            "suggestions": [
+                "You could also do the chicken with any aromatic herb of your liking, and also do mushrooms."
+            ],
+            "background": "I found this amazing recipe on a blog called 'A Girl and Her Fork', and have used it all the time since. It's real easy using two cast iron pans to make chicken thighs for the week. They reheat very well and stay delicious.",
+            "imageURL": null,
+            "difficulty": 2,
+            "servings": 4,
             "category": "Main Dish"
         }
     ],

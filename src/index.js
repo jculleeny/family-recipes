@@ -11,8 +11,8 @@ import reportWebVitals from './reportWebVitals'
 
 ReactDOM.render(
   <React.StrictMode>
-    <Header />
     <Router>
+      <Header />
       <App />
     </Router>
   </React.StrictMode>,

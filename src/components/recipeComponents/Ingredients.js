@@ -21,7 +21,7 @@ const Ingredients = (props) => {
             <li key={ingredient.quantity}>
                 <div className='ingredientItem'>
                         <td className='quantity'>{ ingredient.quantity }</td>
-                        <td>{ ingredient.name }</td>
+                        <td className='ingredientName'>{ ingredient.name }</td>
                 </div>
             </li>
             </tr>

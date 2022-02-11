@@ -13,7 +13,7 @@ const Suggestions = (props) => {
         }
     })
 
-    let suggestions = suggestionData[cat][currentRecipeIndex].background
+    let suggestions = suggestionData[cat][currentRecipeIndex].suggestions
 
     return (
         <div>
