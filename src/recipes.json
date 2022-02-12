@@ -237,6 +237,57 @@
             "difficulty": 1,
             "servings": 4,
             "category": "Sides"
+        },
+        {
+            "recipeName": "Roasted Potatoes & Carrots",
+            "url": "",
+            "ingredients": [
+                {
+                    "quantity": "4 cubed",
+                    "name": "Red Potatoes"
+                },
+                {
+                    "quantity": "4 oblique cut",
+                    "name": "Carrots"
+                },
+                {
+                    "quantity": "2 minced cloves",
+                    "name": "Garlic"
+                },
+                {
+                    "quantity": "1 tbsp",
+                    "name": "Cooking Oil"
+                },
+                {
+                    "quantity": "1 tbsp",
+                    "name": "Olive Oil"
+                },
+                {
+                    "quantity": "1/4 cup",
+                    "name": "Italian Parsley"
+                },
+                {
+                    "quantity": "1/2 juice",
+                    "name": "Lemon"
+                },
+                {
+                    "quantity": "1/2 tsp",
+                    "name": "White Wine Vinegar"
+                }
+            ],
+            "steps": [
+                "Cut the potatoes and carrots and cover in the cooking oil and spread them out on a baking sheet. Put in the oven at 400 degrees for 45 minutes.",
+                "Once the potatoes can be pierced easily with the tines of a fork, take them out and add to a mixing bowl.",
+                "Add the rest of the ingredients and mix them together, add salt to taste, and then taste to see if the balance of acid and fat are good."
+            ],
+            "suggestions": [
+                ""
+            ],
+            "background": "I made this recipe after I wanted a way to make roasted potatoes more interesting, and this is what I came up with.",
+            "imageURL": null,
+            "difficulty": 3,
+            "servings": 4,
+            "category": "Sides"
         }
     ],
     "main-dishes": [
