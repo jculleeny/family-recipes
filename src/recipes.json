@@ -148,6 +148,57 @@
             "difficulty": 1,
             "servings": 4,
             "category": "Dressing, Sauces, Salsas"
+        },
+        {
+            "recipeName": "Chimichurri",
+            "url": "chimichurri",
+            "ingredients": [
+                {
+                    "quantity": "1 chopped",
+                    "name": "Shallot"
+                },
+                {
+                    "quantity": "1 chopped",
+                    "name": "Fresno Chile"
+                },
+                {
+                    "quantity": "3 cloves",
+                    "name": "Garlic"
+                },
+                {
+                    "quantity": "1/2 cup",
+                    "name": "Red Wine"
+                },
+                {
+                    "quantity": "1/2 cup",
+                    "name": "Cilantro"
+                },
+                {
+                    "quantity": "1/4 cup",
+                    "name": "Italian Parsley"
+                },
+                {
+                    "quantity": "2 tbsp",
+                    "name": "Fresh Oregano"
+                },
+                {
+                    "quantity": "3/4 cup",
+                    "name": "Extra-Virgin Olive Oil"
+                }
+            ],
+            "steps": [
+                "Finely chop the shallot, chile, and garlic and add to a mixing bowl.",
+                "Chop the Cilantro, Parsley, and Oregano and add to the bowl.",
+                "Add the other ingredients and add salt to taste."
+            ],
+            "suggestions": [
+                "It's still delicious without the chile pepper, if you are not a fan of hot peppers"
+            ],
+            "background": "I got the idea for this salsa from my mom, but made my own version.",
+            "imageURL": null,
+            "difficulty": 1,
+            "servings": 8,
+            "category": "Dressing, Sauces, Salsas"
         }
     ],
     "sides": [

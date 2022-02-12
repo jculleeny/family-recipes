@@ -6,11 +6,11 @@ const Categories = (props) => {
 
     const listCategories = categories.map( (cat) => {
         return (
-        <li key={cat}>
-            <Link to={ cat }>
-                {cat}
-            </Link>
-        </li>
+            <li key={cat}>
+                <Link to={ cat }>
+                    {cat}
+                </Link>
+            </li>
         )
     })
 
