@@ -58,7 +58,7 @@
                 "Add a minced water chestnut or two. Also pairs terrifically with the Gochujang Mayo."
             ],
             "background": "Shrimp Toast is a very popular appetizer in China, that has spread to Hong Kong and the United States. I got this recipe from Owen Han on Instagram, and he's definitely worth a follow.",
-            "imageURL": null,
+            "imageURL": "../../images/shrimp-toast.jpg",
             "difficulty": 2,
             "servings": 8,
             "category": "Starters"
@@ -125,7 +125,7 @@
                 },
                 {
                     "quantity": "1 cup",
-                    "name": "Kewpie Mayo"
+                    "name": "Kewpie Mayo (Japanese egg forward tasting)"
                 },
                 {
                     "quantity": "1/2 juice",
@@ -144,7 +144,7 @@
                 "Add some grated garlic or ginger for some extra flavor."
             ],
             "background": "This comes from Owen Han on Instagram, and goes perfectly with the Shrimp Toast recipe.",
-            "imageURL": null,
+            "imageURL": "../../images/gochujang-mayo.jpg",
             "difficulty": 1,
             "servings": 4,
             "category": "Dressing, Sauces, Salsas"
@@ -284,7 +284,7 @@
                 "You can speed up the cooking of the potatoes by raising the heat, but I find 400 gets the beset results."
             ],
             "background": "I made this recipe after I wanted a way to make roasted potatoes more interesting, and this is what I came up with.",
-            "imageURL": null,
+            "imageURL": "../../images/roasted-potatoes-and-carrots.jpg",
             "difficulty": 3,
             "servings": 4,
             "category": "Sides"
@@ -328,7 +328,7 @@
                 "Sometimes I like to add parboiled greens when I mix it all together, usually broccoli."
             ],
             "background": "This is really Pasta alla Gricia, but I can never find Guanciale (cured pork cheek), so I use bacon. It's been a family favorite for a long time.",
-            "imageURL": null,
+            "imageURL": "../../images/bacon-pasta.jpg",
             "difficulty": 1,
             "servings": 6,
             "category": "Main Dish"
@@ -394,7 +394,7 @@
                 "Top with some fresh red salsa or Tapatio."
             ],
             "background": "This recipe was created by my (John Culleeny IV) great grandmother from Alaska. It has always been one of my favorite dishes throughout life, and the smell of the onion, bell pepper, and garlic always got me excited for dinner.",
-            "imageURL": null,
+            "imageURL": "../../images/great-grandmas-special.jpg",
             "difficulty": 1,
             "servings": 12,
             "category": "Main Dish"

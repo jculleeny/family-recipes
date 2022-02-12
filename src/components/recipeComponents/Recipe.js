@@ -10,8 +10,8 @@ import Suggestions from './Suggestions'
 // API Data
 import recipes from '../../recipes.json'
 
-// Testing Images
-import testImage from '../../noodles-test-img.jpg'
+// Testing Images - Save for now 2/12/22
+//import testImage from '../../images/noodles-test-img.jpg'
 
 const Recipe = () => {
     const { category, recipe } = useParams()
@@ -29,6 +29,9 @@ const Recipe = () => {
         }
     })
 
+    let recipeImage = recipes[cat.category][currentRecipeIndex].imageURL
+    console.log(recipeImage)
+
     let detailsData = recipes[cat.category][currentRecipeIndex]
 
     return (
@@ -42,7 +45,7 @@ const Recipe = () => {
                         <h4>Category: <span>{ detailsData.category }</span></h4>
                     </div>
                     <div className='recipeImg'>
-                        <img src={ testImage } alt='placeholder' />
+                        <img src={ recipeImage } alt={ rec.recipe } />
                     </div>
                 </div>
                 <Ingredients categoryName={ cat.category } recipeName={ rec.recipe } recipeData={ recipes } />
