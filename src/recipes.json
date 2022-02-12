@@ -389,6 +389,43 @@
             "difficulty": 2,
             "servings": 4,
             "category": "Main Dish"
+        },
+        {
+            "recipeName": "Quick Tomato Sauce Pasta",
+            "url": "",
+            "ingredients": [
+                {
+                    "quantity": "1 28oz can",
+                    "name": "Petite Diced Tomatoes"
+                },
+                {
+                    "quantity": "4-6 cloves",
+                    "name": "Garlic"
+                },
+                {
+                    "quantity": "4 tbsp",
+                    "name": "Olive Oil"
+                },
+                {
+                    "quantity": "2/3 box",
+                    "name": "Spaghetti or Linguini"
+                }
+            ],
+            "steps": [
+                "Cook the pasta to the Al Dente time on the box.",
+                "Add the olive oil to a pan, heat to low, and add the garlic minced.",
+                "Let the garlic cook until it is just turning golden and smells delicious, then add the canned tomatoes.",
+                "Bring to a boil and then turn to a simmer for 10-20 minutes.",
+                "Drain the pasta and add to the sauce."
+            ],
+            "suggestions": [
+                "I like cooking Italian sausages before starting the sauce and then adding them to it while it simmers. You could add any protein you like though."
+            ],
+            "background": "This recipe is a favorite of my Dad's, and he loves to make it. He made sure I knew how to make it before I went off to college.",
+            "imageURL": null,
+            "difficulty": 1,
+            "servings": 6,
+            "category": "Main Dish"
         }
     ],
     "desserts": []
