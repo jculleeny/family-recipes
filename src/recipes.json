@@ -62,6 +62,51 @@
             "difficulty": 2,
             "servings": 8,
             "category": "Starters"
+        },
+        {
+            "recipeName": "Bruschetta",
+            "url": "",
+            "ingredients": [
+                {
+                    "quantity": "1 sliced",
+                    "name": "French Baguette"
+                },
+                {
+                    "quantity": "1/4 cup",
+                    "name": "Melted Butter"
+                },
+                {
+                    "quantity": "1/4 cup",
+                    "name": "Extra-Virgin Olive Oil"
+                },
+                {
+                    "quantity": "2-3 minced",
+                    "name": "Garlic"
+                },
+                {
+                    "quantity": "1/4 cup",
+                    "name": "Fresh Basil"
+                },
+                {
+                    "quantity": "4 petite diced",
+                    "name": "Roma Tomatoes"
+                }
+            ],
+            "steps": [
+                "Slice the French baguette on a bias and butter one side. Add to an oven preheated to 350 degrees and cook until golden toasted.",
+                "While the bread cooks, dice the tomatoes and add to a mixing bowl.",
+                "Mince the garlic, roll the basil leaves together and cut into strips, and add them to the bowl.",
+                "Add the olive oil to the mixture, and salt to taste.",
+                "Top the toasted baguette with the mixture and enjoy."
+            ],
+            "suggestions": [
+                "Add some more minced garlic to the bread as it toasts in the oven for a little more garlic flavor, or add some sliced Mozzarella between the bread and tomato mixture. If you decide to do this, add just a little Olive Oil to the bread."
+            ],
+            "background": "This is just a recipe I've loved forever. It's always so satisfying. I like making it in summer as a picnic snack at the beach.",
+            "imageURL": "",
+            "difficulty": 2,
+            "servings": 6,
+            "category": "Starters"
         }
     ],
     "dressings-sauces-salsas": [
@@ -199,6 +244,50 @@
             "difficulty": 1,
             "servings": 8,
             "category": "Dressing, Sauces, Salsas"
+        },
+        {
+            "recipeName": "Lemon Vinaigrette",
+            "url": "",
+            "ingredients": [
+                {
+                    "quantity": "1/2 juice",
+                    "name": "Lemon"
+                },
+                {
+                    "quantity": "1/2 zest",
+                    "name": "Lemon"
+                },
+                {
+                    "quantity": "1 1/2 tsp",
+                    "name": "White Wine Vinegar"
+                },
+                {
+                    "quantity": "1 clove minced",
+                    "name": "Garlic"
+                },
+                {
+                    "quantity": "5 tbsp",
+                    "name": "Extra-Virgin Olive Oil"
+                },
+                {
+                    "quantity": "5-10 cracks",
+                    "name": "Pepper"
+                }
+            ],
+            "steps": [
+                "Zest and Juice the lemon and add to a mixing bowl or measuring cup.",
+                "Mince the garlic and add.",
+                "Add the rest of the ingredients and mix together thoroughly, add salt to taste.",
+                "Taste to see if the acid and fat are balanced."
+            ],
+            "suggestions": [
+                "This is my families favorite salad dressing to make. Our go to mix for this dressing is Arugula, Raspberries (any acid berry is great), Roasted sunflower seeds, and Avocado. It goes great as a side for a steak."
+            ],
+            "background": "This recipe comes from Samin Nosrat.",
+            "imageURL": null,
+            "difficulty": 1,
+            "servings": 4,
+            "category": "Dressing, Sauces, Salsas"
         }
     ],
     "sides": [
@@ -281,7 +370,7 @@
                 "Add the rest of the ingredients and mix them together, add salt to taste, and then taste to see if the balance of acid and fat are good."
             ],
             "suggestions": [
-                "You can speed up the cooking of the potatoes by raising the heat, but I find 400 gets the beset results."
+                "You can speed up the cooking of the potatoes by raising the heat, but I find 400 gets the best results."
             ],
             "background": "I made this recipe after I wanted a way to make roasted potatoes more interesting, and this is what I came up with.",
             "imageURL": "../../images/roasted-potatoes-and-carrots.jpg",
