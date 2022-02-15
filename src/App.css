@@ -2,6 +2,8 @@
     --main-link-color: rgb(39, 160, 95);
     --very-light-border: rgba(0, 0, 0, 0.1);
     --off-white-bg-color: rgb(250, 243, 235);
+    --main-bg-color: rgba(39, 160, 95, 0.9);
+    --main-desktop-width: 70vw;
 }
 
 * {
@@ -162,7 +164,7 @@ Classes -------------------------------
 }
 
 .quantity {
-    width: 7vw;
+    width: 10vw;
 }
 
 .about {

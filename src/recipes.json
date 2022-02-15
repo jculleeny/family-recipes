@@ -103,7 +103,7 @@
                 "Add some more minced garlic to the bread as it toasts in the oven for a little more garlic flavor, or add some sliced Mozzarella between the bread and tomato mixture. If you decide to do this, add just a little Olive Oil to the bread."
             ],
             "background": "This is just a recipe I've loved forever. It's always so satisfying. I like making it in summer as a picnic snack at the beach.",
-            "imageURL": "",
+            "imageURL": "../../images/buschetta.jpg",
             "difficulty": 2,
             "servings": 6,
             "category": "Starters"
@@ -155,7 +155,7 @@
                 "Experiment as you like, but I've found the Sherry vinegar is what makes this work."
             ],
             "background": "I got the idea for this salsa from my mom, but made my own version.",
-            "imageURL": null,
+            "imageURL": "../../images/chipotle-salsa.jpg",
             "difficulty": 1,
             "servings": 8,
             "category": "Dressing, Sauces, Salsas"
@@ -188,7 +188,7 @@
             "suggestions": [
                 "Add some grated garlic or ginger for some extra flavor."
             ],
-            "background": "This comes from Owen Han on Instagram, and goes perfectly with the Shrimp Toast recipe.",
+            "background": "This comes from Owen Han on Instagram, and goes perfectly with the Shrimp Toast recipe. It also goes really well on any sandwich, but I find it's amazing on BLTs.",
             "imageURL": "../../images/gochujang-mayo.jpg",
             "difficulty": 1,
             "servings": 4,
@@ -525,7 +525,7 @@
                 "You could also do the chicken with any aromatic herb of your liking, and also do mushrooms."
             ],
             "background": "I found this amazing recipe on a blog called 'A Girl and Her Fork', and have used it all the time since. It's real easy using two cast iron pans to make chicken thighs for the week. They reheat very well and stay delicious.",
-            "imageURL": null,
+            "imageURL": "../../images/cast-iron-chicken-thighs.jpg",
             "difficulty": 2,
             "servings": 4,
             "category": "Main Dish"
@@ -562,7 +562,52 @@
                 "I like cooking Italian sausages before starting the sauce and then adding them to it while it simmers. You could add any protein you like though."
             ],
             "background": "This recipe is a favorite of my Dad's, and he loves to make it. He made sure I knew how to make it before I went off to college.",
-            "imageURL": null,
+            "imageURL": "../../images/quick-tomato-sauce-pasta.jpg",
+            "difficulty": 1,
+            "servings": 6,
+            "category": "Main Dish"
+        },
+        {
+            "recipeName": "Aglio e Olio",
+            "url": "",
+            "ingredients": [
+                {
+                    "quantity": "4-6 cloves",
+                    "name": "Garlic"
+                },
+                {
+                    "quantity": "1 filet",
+                    "name": "Anchovy"
+                },
+                {
+                    "quantity": "4 tbsp",
+                    "name": "Olive Oil"
+                },
+                {
+                    "quantity": "1 tbsp",
+                    "name": "Crushed Red Pepper"
+                },
+                {
+                    "quantity": "1/4 cup",
+                    "name": "Chopped Parsley"
+                },
+                {
+                    "quantity": "1/2 box",
+                    "name": "Spaghetti or Linguini"
+                },
+                {
+                    "quantity": "1 cup",
+                    "name": "Reserved Pasta Water"
+                }
+            ],
+            "steps": [
+                "Mince the Garlic"
+            ],
+            "suggestions": [
+                "I absolutely love adding shrimp to this dish. I keep a bag of frozen shrimp just so I can have this recipe ready to go."
+            ],
+            "background": "There is an Italian restaurant in Green Bay, WI that makes an AMAZING version of this recipe, and I had to figure out how to make it. I think theirs is still better.",
+            "imageURL": "../../images/aglio-e-olio.jpg",
             "difficulty": 1,
             "servings": 6,
             "category": "Main Dish"
