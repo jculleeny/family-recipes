@@ -1,11 +1,11 @@
 import React from 'react'
 
-const IngredientItem = () => {
+const IngredientItem = (props) => {
 
 
     return (
         <li>
-            <input type="text" />
+            <input type="text" placeholder='Ingredient...'/>
         </li>
     )
 }

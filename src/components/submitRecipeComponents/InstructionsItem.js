@@ -5,7 +5,7 @@ const InstructionsItem = () => {
 
     return (
         <li>
-            <input type="text" />
+            <input type="text" placeholder='Instruction...'/>
         </li>
     )
 }

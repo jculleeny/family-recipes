@@ -377,6 +377,54 @@
             "difficulty": 3,
             "servings": 4,
             "category": "Sides"
+        },
+        {
+            "recipeName": "Tomato Soup",
+            "url": "",
+            "ingredients": [
+                {
+                    "quantity": "1 28oz can",
+                    "name": "Whole Tomatoes"
+                },
+                {
+                    "quantity": "8 cloves",
+                    "name": "Garlic"
+                },
+                {
+                    "quantity": "1/4 cup",
+                    "name": "Olive Oil"
+                },
+                {
+                    "quantity": "1",
+                    "name": "Yellow Onion"
+                },
+                {
+                    "quantity": "4 cups",
+                    "name": "Chicken Broth"
+                },
+                {
+                    "quantity": "2 tbsp",
+                    "name": "Tomato Paste"
+                },
+                {
+                    "quantity": "8 leaves",
+                    "name": "Fresh Basil"
+                }
+            ],
+            "steps": [
+                "In a pyrex or other oven safe dish add the tomatoes and mash by hand. Add the garlic cloves, olive oil, salt and pepper, then mix together. Add to an oven preheated to 425 for 40 minutes.",
+                "Heat a dutch oven or large sauce pan to low and add 2 tbsp olive oil. Dice the onion and add to the pan. Let caramelize at a nice low heat until browned a little (About 20-30 minutes).",
+                "Add the tomato paste to the onion and mix. Let the paste darken a little, then add the chicken broth, tomato mixture, and basil leaves. Let simmer and come together for 15-25 minutes.",
+                "Once the ingredients have melded together use a hand blender to make the soup smooth and creamy. Add salt and pepper to taste."
+            ],
+            "suggestions": [
+                "Some thyme sprigs bundled together with twine can also add a nice flavor to the soup. Have with a grilled cheese on sourdough or any sandwich for a nice full meal. Alternatively, add some toasted bread or croutons."
+            ],
+            "background": "This is a new recipe for me. I had never tried making my own tomato soup before. I may make some changes to it in the future, but it's still real good.",
+            "imageURL": "../../images/tomato-soup.jpg",
+            "difficulty": 2,
+            "servings": 6,
+            "category": "Sides"
         }
     ],
     "main-dishes": [

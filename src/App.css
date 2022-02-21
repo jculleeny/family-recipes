@@ -44,6 +44,62 @@ table {
     width: 100%;
 }
 
+
+input {
+    border: 1px solid var(--main-link-color);
+    border-radius: 10px;
+    width: 100%;
+    height: 5vh;
+    padding: 10px;
+    margin-bottom: 1vh;
+    font-size: 1.1rem;
+}
+
+input[type=submit] {
+    background-color: var(--main-link-color);
+    color: white;
+}
+
+textarea {
+    border: 1px solid var(--main-link-color);
+    border-radius: 10px;
+    width: 100%;
+    height: 9vh;
+    padding: 10px;
+    font-size: 1.05rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+button {
+    border: 1px solid var(--main-link-color);
+    border-radius: 10px;
+    background-color: var(--main-link-color);
+    color: white;
+    width: 100%;
+    height: 5vh;
+    padding: 10px;
+}
+
+fieldset {
+    border: 1px solid var(--main-link-color);
+    padding: 10px 10px;
+    margin-bottom: 3vh;
+}
+
+legend {
+    padding: 3px 10px;
+}
+
+select {
+    border: 1px solid var(--main-link-color);
+    border-radius: 10px;
+    width: 100%;
+    height: 5vh;
+    padding: 10px;
+    margin-bottom: 3vh;
+    font-size: 1.05rem;
+}
+
 /* table, th, td {
     border: 1px solid black;
 } */
@@ -61,12 +117,12 @@ Classes -------------------------------
 .headerContainer {
     display: flex;
     justify-content: space-between;
-    width: 70vw;
+    width: var(--main-desktop-width);
     margin: 0 auto;
 }
 
 .breadcrumbsWrapper {
-    width: 70vw;
+    width: var(--main-desktop-width);
     margin: 0 auto;
 }
 
@@ -93,7 +149,7 @@ Classes -------------------------------
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 70vw;
+    width: var(--main-desktop-width);
     font-size: 3.5rem;
     line-height: 1.6;
     padding: 5vh 0;
@@ -111,7 +167,7 @@ Classes -------------------------------
 }
 
 .recipeContainer {
-    width: 70vw;
+    width: var(--main-desktop-width);
     padding: 10px;
     border-left: 1px solid var(--very-light-border);
     border-right: 1px solid var(--very-light-border);
@@ -174,11 +230,30 @@ Classes -------------------------------
 }
 
 .aboutContainer {
-    width: 70vw;
+    width: var(--main-desktop-width);
     padding: 10px;
     border-left: 1px solid var(--very-light-border);
     border-right: 1px solid var(--very-light-border);
 }
+
+.submit {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.formContainer {
+    width: var(--main-desktop-width);
+    padding: 10px;
+    border-left: 1px solid var(--very-light-border);
+    border-right: 1px solid var(--very-light-border);
+    margin-bottom: 10vh;
+}
+
+.formContainer li {
+    list-style: none;
+}
+
 
 /*
 Mobile Layout ---------------------
@@ -225,8 +300,9 @@ Mobile Layout ---------------------
 
     .recipeContainer img {
         max-width: 95vw;
-        width: auto;
+        /* width: auto; */
         height: 35vh;
+        min-width: 100%;
     }
 
     .recipeHeaderContainer {
@@ -254,6 +330,10 @@ Mobile Layout ---------------------
 
     .quantity {
         width: 30vw;
+    }
+
+    .formContainer {
+        width: 100vw;
     }
 
 }
