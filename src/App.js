@@ -7,6 +7,7 @@ import CategoryRecipes from './components/CategoryRecipes'
 import NoMatch from './components/NoMatch'
 import Recipe from './components/recipeComponents/Recipe'
 import About from './components/About'
+import Tips from './components/Tips'
 
 // API Data
 import recipes from './recipes.json'
@@ -22,6 +23,7 @@ function App() {
       <Route path="/:category/:recipe" element={ <Recipe recipeData={ recipes } /> } />
       <Route path="/submit" element={ <SubmitRecipe /> } />
       <Route path="/about" element={ <About /> } />
+      <Route path="/tips" element={ <Tips /> } />
       <Route path="*" element={ <NoMatch /> } />
     </Routes>
   )
