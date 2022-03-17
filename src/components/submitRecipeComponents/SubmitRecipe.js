@@ -4,8 +4,6 @@ import React, { useState } from 'react'
 import IngredientItem from './IngredientItem'
 import InstructionsItem from './InstructionsItem'
 
-
-
 const SubmitRecipe = () => {
     const [ ingredientField, setIngredientField ] = useState([ ])
     const [ instructionField, setInstructionField ] = useState([ ])
@@ -13,6 +11,7 @@ const SubmitRecipe = () => {
     const addInputIngredient = (e) => {
         e.preventDefault()
         setIngredientField(ingredientField.concat(<IngredientItem key={ingredientField.length} />))
+        console.log(ingredientField)
     }
 
     const addInputInstruction = (e) => {

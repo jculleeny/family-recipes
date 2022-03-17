@@ -4,6 +4,8 @@ import { Link } from 'react-router-dom'
 const Categories = (props) => {
     const categories = props.categories
 
+    console.log(props.categories)
+
     const listCategories = categories.map( (cat) => {
         return (
             <li key={cat}>

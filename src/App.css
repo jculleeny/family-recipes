@@ -1,9 +1,10 @@
 :root {
+    --main-bg-color: rgba(39, 160, 95, 0.9);
     --main-link-color: rgb(39, 160, 95);
     --very-light-border: rgba(0, 0, 0, 0.1);
     --off-white-bg-color: rgb(250, 243, 235);
-    --main-bg-color: rgba(39, 160, 95, 0.9);
     --main-desktop-width: 70vw;
+    --button-delete: rgb(248, 86, 86);
 }
 
 * {
@@ -48,9 +49,9 @@ table {
 input {
     border: 1px solid var(--main-link-color);
     border-radius: 10px;
-    width: 100%;
     height: 5vh;
     padding: 10px;
+    margin: 0 10px;
     margin-bottom: 1vh;
     font-size: 1.1rem;
 }
@@ -100,14 +101,9 @@ select {
     font-size: 1.05rem;
 }
 
-/* table, th, td {
-    border: 1px solid black;
-} */
-
 /*
 Classes -------------------------------
 */
-
 .header {
     margin-bottom: 3vh;
     border-bottom: 2px solid black;
@@ -252,6 +248,8 @@ Classes -------------------------------
 
 .formContainer li {
     list-style: none;
+    display: inline-block;
+    width: 100%;
 }
 
 .tips {
@@ -265,6 +263,23 @@ Classes -------------------------------
     padding: 10px;
     border-left: 1px solid var(--very-light-border);
     border-right: 1px solid var(--very-light-border);
+}
+
+.inputButtonDelete {
+    width: 5vh;
+    height: 5vh;
+    color: white;
+    background-color: var(--button-delete);
+    justify-content: center;
+    align-items: center;
+}
+
+.inputQuantity {
+    width: 20%;
+}
+
+.inputIngredient {
+    min-width: 67%;
 }
 
 
