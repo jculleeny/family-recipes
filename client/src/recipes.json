@@ -161,6 +161,62 @@
             "category": "Dressing, Sauces, Salsas"
         },
         {
+            "recipeName": "Salsa Macha",
+            "url": "salsa-macha",
+            "ingredients": [
+                {
+                    "quantity": "2 cups",
+                    "name": "Avocado Oil"
+                },
+                {
+                    "quantity": "3",
+                    "name": "Morita Chilies"
+                },
+                {
+                    "quantity": "4-8",
+                    "name": "Guajillo Chilies"
+                },
+                {
+                    "quantity": "1 cup",
+                    "name": "Arbol Chilies"
+                },
+                {
+                    "quantity": "12 cloves",
+                    "name": "Garlic"
+                },
+                {
+                    "quantity": "1/2",
+                    "name": "Yellow Onion"
+                },
+                {
+                    "quantity": "2 tbsp",
+                    "name": "Sesame Seeds"
+                },
+                {
+                    "quantity": "1/3 cup",
+                    "name": "Unsalted Roasted Peanuts"
+                },
+                {
+                    "quantity": "1 tsp",
+                    "name": "Sherry Vinegar"
+                }
+            ],
+            "steps": [
+                "Remove the seeds and tops of the Morita and Guajillo Peppers.",
+                "Gently heat the oil and add the peppers until fragrant and soft. Add the peanuts as they begin to soften.",
+                "Let the oil cool to room temperature then add all the ingredients into a blender and pulse into a nice chunky mixture.",
+                "Add salt to taste."
+            ],
+            "suggestions": [
+                "Use the pre-shelled garlic that has been boiled to preserve it and makes prep easier. This will allow the salsa to last longer than 3 days, and avoid any botulism. If you do this, then skip the onion. You can use any type of oil you want, but I prefer to use a good Avocado Oil."
+            ],
+            "background": "Exactly like a chinese chili crisp, but made with dried mexican chilies.",
+            "imageURL": "../../images/salsa-macha.jpg",
+            "difficulty": 2,
+            "servings": 8,
+            "category": "Dressing, Sauces, Salsas"
+        },
+        {
             "recipeName": "Gochujang Mayo",
             "url": "gochujang-mayo",
             "ingredients": [
@@ -424,6 +480,34 @@
             "imageURL": "../../images/tomato-soup.jpg",
             "difficulty": 2,
             "servings": 6,
+            "category": "Sides"
+        },
+        {
+            "recipeName": "Roasted Tomatoes",
+            "url": "roasted-tomatoes",
+            "ingredients": [
+                {
+                    "quantity": "4-6",
+                    "name": "Vine Ripened Tomatoes"
+                },
+                {
+                    "quantity": "3 tbsp",
+                    "name": "Olive Oil"
+                }
+            ],
+            "steps": [
+                "Preheat an oven to 225 degrees.",
+                "Cut the tomatoes in half along their equator and remove the seeds.",
+                "Add the tomatoes to a baking sheet covered in foil and add olive oil, salt, and pepper.",
+                "Cook in the oven for 2.5-3 hours."
+            ],
+            "suggestions": [
+                "These are little delicious umami bombs that are great addition to any meal, or as a small snack."
+            ],
+            "background": "We like to add these whenever congee is made as a great topping. They're also great addition to quick breakfast meal, such as on toast, with an egg, on some leftover rice with kimchi.",
+            "imageURL": "../../images/roasted-tomatoes.jpg",
+            "difficulty": 1,
+            "servings": 10,
             "category": "Sides"
         }
     ],
